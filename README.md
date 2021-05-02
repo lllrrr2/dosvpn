@@ -17,7 +17,7 @@
 </h1>
 
 # 此项目已不再进行维护，dodois将长期为 [Doisnet](https://github.com/dodois/Doisnet) 提供支持
-# Windows版 Doisnet 已上线，[Windows版下载](https://github.com/dodois/Doisnet/releases/download/v0.0.1/doisnet-0.0.1.Setup.exe)
+# Windows版 [Doisnet](https://github.com/dodois/Doisnet) 已上线，[点此下载](https://github.com/dodois/Doisnet/releases/download/v0.0.1/doisnet-0.0.1.Setup.exe)
 
 <br/>
 <br/>
