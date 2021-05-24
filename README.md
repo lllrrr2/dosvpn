@@ -16,7 +16,7 @@
 
 </h1>
 
-# 此厂库已不再进行维护，下载最新版请前往[Doisnet](https://github.com/dodois/Doisnet)
+# 此仓库已不再进行维护，下载最新版请前往[Doisnet](https://github.com/dodois/Doisnet)
 # dodois 将长期为 ```Doisnet(一款插件式的工具应用)``` 提供支持
 
 <br/>
