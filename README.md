@@ -38,13 +38,6 @@ dosvpn 是一款方便访问 google、github、Stack Overflow、codepen、jsfidd
 > - [支持](https://github.com/dodois/dosvpn/issues/9)
 > - [反对](https://github.com/dodois/dosvpn/issues/10)
 
-#### 右侧 3 连击 ```Watch``` 👀 ```Star``` ⭐ ```Fork``` 🍴
-
-- 🏳️‍🌈 技术交流 [telegram](https://t.me/joinchat/Syp6BRjSjR1cwcCfsEHmlQ)
-- ⬇️ Windows [所有版本](https://github.com/dodois/dosvpn/releases)
-- ❓ 常见问题 [技术问答](https://github.com/dodois/dosvpn/issues)
-- 🐛 Bug 提交 [交流反馈](https://github.com/dodois/dosvpn/issues)
-
 ### 免责声明
 
 Dodois 不为任何组织或个人提供服务，该软件仅为 Dodois 进行程序设计及学术研究时的作品案例，请勿传播！如果不小心下载了该软件，请于 24 小时内删除，切勿用于其他用途，否则出现一切问题作者概不负责。因违法违规使用造成的一切后果，由使用者自行承担！
