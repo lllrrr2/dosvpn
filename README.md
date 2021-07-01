@@ -1,3 +1,15 @@
+# 此仓库已不再进行维护 
+# Not in maintenance
+# 下载最新版请前往[Doisnet](https://github.com/dodois/Doisnet)(一款插件式的工具应用)
+# Here is the latest version [Doisnet](https://github.com/dodois/Doisnet)(Plug-in tool applications)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <h1 align="center">
   <a href="https://github.com/dodois/dosvpn"><img src="https://user-images.githubusercontent.com/73285310/97069620-0edd5a80-1604-11eb-965f-79582462d6e5.png" alt="dosvpn logo" width="200"></a>
   <br>
@@ -15,17 +27,6 @@
   </h3>
 
 </h1>
-
-# 此仓库已不再进行维护，下载最新版请前往[Doisnet](https://github.com/dodois/Doisnet)
-# dodois 将长期为 ```Doisnet(一款插件式的工具应用)``` 提供支持
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### 极速、简单、开源 🚀 [官网](https://dodois.github.io/)
 
